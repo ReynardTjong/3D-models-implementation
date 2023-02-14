@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cigarette
+* source:	https://sketchfab.com/3d-models/cigarette-50e3b31e6935484e829696094b54eaf3
+* author:	Nik Ladoukakis (https://sketchfab.com/nikladoukakis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cigarette" (https://sketchfab.com/3d-models/cigarette-50e3b31e6935484e829696094b54eaf3) by Nik Ladoukakis (https://sketchfab.com/nikladoukakis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

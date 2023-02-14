@@ -1,0 +1,250 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 510,
+      "max": [
+        -5.291201114654541,
+        6.453558921813965,
+        7.729381084442139
+      ],
+      "min": [
+        -6.28784704208374,
+        5.4413042068481445,
+        0.5377449989318848
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6120,
+      "componentType": 5126,
+      "count": 510,
+      "max": [
+        0.998627781867981,
+        0.9953563809394836,
+        0.9994553327560425
+      ],
+      "min": [
+        -0.9999546408653259,
+        -0.9981512427330017,
+        -0.9999873638153076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 510,
+      "max": [
+        0.9999570846557617,
+        0.9992386698722839,
+        0.9999995827674866,
+        1.0
+      ],
+      "min": [
+        -0.9992543458938599,
+        -0.9999027252197266,
+        -0.9999995827674866,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 510,
+      "max": [
+        3.991631031036377,
+        0.9880419969558716
+      ],
+      "min": [
+        3.38517689704895,
+        0.03641299903392792
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2610,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Nik Ladoukakis (https://sketchfab.com/nikladoukakis)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cigarette-50e3b31e6935484e829696094b54eaf3",
+      "title": "Cigarette"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 10440,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4080,
+      "byteOffset": 10440,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12240,
+      "byteOffset": 14520,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8160,
+      "byteOffset": 26760,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 34920,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/SRF_PRP055_shaderSG_baseColor.png"
+    },
+    {
+      "uri": "textures/SRF_PRP055_shaderSG_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/SRF_PRP055_shaderSG_emissive.png"
+    },
+    {
+      "uri": "textures/SRF_PRP055_shaderSG_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "SRF_PRP055_shaderSG",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.011503521353006363,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.5542948540749595e-18,
+        -0.011503521353006363,
+        0.0,
+        0.0,
+        0.011503521353006363,
+        2.5542948540749595e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "486637689a484a2f890d418f03f67da4.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
